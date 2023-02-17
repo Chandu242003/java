@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class Question {  //Define a class Question with two elements e1 and e2.
-  Scanner sc = new Scanner(System.in);
+Scanner sc = new Scanner(System.in);
 int e1 = sc.nextInt();  //Read e1
 int e2 = sc.nextInt();  //Read e2
 }
