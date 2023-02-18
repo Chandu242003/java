@@ -17,7 +17,6 @@ public static void main(String[] args) {
 	Question t = new Question ();
   //Call the method swap()
 swap(t);
-
 System.out.println(t.e1+" "+t.e2);    
   }
 }	
