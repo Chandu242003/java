@@ -12,7 +12,6 @@ int temp = t.e1;
     t.e1 = t.e2;
     t.e2 = temp;
   }
-
 public static void main(String[] args) {
 //Create an object of class Question
 	Question t = new Question ();
