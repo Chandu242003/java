@@ -5,8 +5,8 @@ int e1 = sc.nextInt();  //Read e1
 int e2 = sc.nextInt();  //Read e2
 }
 public class Exercise{
-//Template code 
-//Define static method swap()to swap the values of e1 and e2 of class T. 
+  //Template code 
+  //Define static method swap()to swap the values of e1 and e2 of class T. 
 public static void swap(Question t) {
 int temp = t.e1;
    t.e1 = t.e2;
