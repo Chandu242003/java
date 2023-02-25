@@ -18,3 +18,4 @@ public static void main(String[] args)
 { 
 Constructor s = new Constructor(); 
 Constructor student = new Constructor(10, "David");
+}
