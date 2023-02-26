@@ -7,7 +7,7 @@ Constructor()
 System.out.println("This is Default constructor"); 
 System.out.println("Student Id : "+id + "\nStudent Name : "+name); 
 } 
-Constructor(int i, String n) 
+Constructor(int i,String n) 
 { 
 System.out.println("This is Parameterized Constructor:"); 
 id = i; 
