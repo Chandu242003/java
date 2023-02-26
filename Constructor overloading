@@ -17,6 +17,6 @@ System.out.println("Student Id : "+id + "\nStudent Name : "+name);
 public static void main(String[] args) 
 { 
 Constructor s = new Constructor(); 
-Constructor student = new Constructor(10, "David");
+Constructor student = new Constructor(10,"David");
 }
 }
