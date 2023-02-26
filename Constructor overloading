@@ -1,4 +1,4 @@
- public class Constructor 
+public class Constructor 
 { 
 int id; 
 String name; 
