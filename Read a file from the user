@@ -24,3 +24,4 @@ String type = fileName.substring(index + 1);
 System.out.println("File type is " + type); 
 System.out.println("File doesn't have type"); 
 System.out.println("File size: " + f1.length() + " Bytes");
+}
