@@ -1,6 +1,5 @@
  Fibonacci series in Java
 
-
 class FibonacciExample1
 {  
 public static void main(String args[])  
